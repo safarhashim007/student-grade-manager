@@ -1,1 +1,1 @@
-# student-grade-manager
+Student grade management system built using Python.
