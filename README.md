@@ -1,1 +1,1 @@
-Student grade management system built using Python.
+A command-line Python application to manage student records and calculate grades.
